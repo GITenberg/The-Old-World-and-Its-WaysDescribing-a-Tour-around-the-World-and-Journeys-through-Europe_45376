@@ -1,0 +1,29 @@
+_repo: The-Old-World-and-Its-WaysDescribing-a-Tour-around-the-World-and-Journeys-through-Europe_45376
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45376-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bryan, William Jennings
+    birthdate: 1860
+    deathdate: 1925
+    gutenberg_agent_id: '3381'
+    url: http://www.gutenberg.org/2009/agents/3381
+    wikipedia: http://en.wikipedia.org/wiki/William_Jennings_Bryan
+description: ''
+gutenberg_issued: '2014-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45376'
+  lccn: 07015944
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages around the world'
+title: "The Old World and Its Ways\r\nDescribing a Tour Around the World and Journeys\
+  \ Through Europe"
+url: http://www.gutenberg.org/ebooks/45376
